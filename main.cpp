@@ -1,5 +1,4 @@
-//Author: Class
-//11/26/17
+
 #include <cstdlib>
 #include <iostream>
 #include"Grid.h"
