@@ -1,6 +1,4 @@
-//Grid.h
-//Author: Drew
-//11/26/17
+
 
 #include<string>
 #include<vector>
